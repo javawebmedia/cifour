@@ -9,31 +9,31 @@ Alhamdulillah, akhirnya bisa uji coba framework Codeigniter 4 ini. Sebagai hasil
 Unduh via Github: http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/
 
 REQUIREMENTS:
-Minimal menggunakan PHP 7.2 ya
+1. Minimal menggunakan PHP 7.2 ya.
 
 PANDUAN INSTALLASI:
 
-Buat folder cifour di folder htdocs atau www Anda
-Unduh file cifour melalui link di atas ( http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/)
-Lalu Extract isi file yang sudah Anda unduh ke folder cifour tersebut
-Melalui PHPMyAdmin, buat database dengan nama javawebmedia_cifour
-Import database yang ada dalam folder db (ada dalam folder cifour ya)
-Buka browser, lalu test alamat http://localhost/cifour
-Selamat mencoba
+1. Buat folder cifour di folder htdocs atau www Anda.
+2. Unduh file cifour melalui link di atas ( http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/).
+3. Lalu Extract isi file yang sudah Anda unduh ke folder cifour tersebut.
+4. Melalui PHPMyAdmin, buat database dengan nama javawebmedia_cifour.
+5. Import database yang ada dalam folder db (ada dalam folder cifour ya).
+6. Buka browser, lalu test alamat http://localhost/cifour.
+7. Selamat mencoba
 
 USERNAME DAN PASSWORD
 
-Opsi 1: Username: andoyo, Password: andoyo
-Opsi 2: Username: javawebmedia, Password: javawebmedia
+1. Opsi 1: Username: andoyo, Password: andoyo.
+2. Opsi 2: Username: javawebmedia, Password: javawebmedia.
 
 FITUR TERSEDIA:
 
-Halaman homepage
-Halaman detail berita
-Halaman login dan logout
-Halaman untuk menambah, mengedit, menghapus dan menampilkan data berita
-Halaman untuk mengelola kategori berita
-Halaman untuk mengelola data user
+1. Halaman homepage.
+2. Halaman detail berita.
+3. Halaman login dan logout.
+4. Halaman untuk menambah, mengedit, menghapus dan menampilkan data berita.
+5. Halaman untuk mengelola kategori berita.
+6. Halaman untuk mengelola data user
 
 KEKURANGAN:
 Karena ini framework baru dan dokumentasinya sedikit maka ada banyak fitur yang belum diexplor. Maafkan yah
