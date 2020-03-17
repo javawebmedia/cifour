@@ -1,0 +1,575 @@
+CRITICAL - 2020-03-16 08:17:53 --> Call to undefined function form_open()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\Login.php(8): view('login/index', Array)
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 08:25:50 --> Invalid file: admin/dasbor/index.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/in...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/in...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(11): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 08:27:00 --> Invalid file: admin/dasbor/index.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/in...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/in...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(11): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:08:12 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->delete('15')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 09:08:34 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->delete('15')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 09:09:02 --> 
+#0 D:\XAMPP\htdocs\cifour\system\HTTP\RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(798): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(29): redirect('http://localhos...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->delete('15')
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 09:10:48 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->delete('14')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 09:21:26 --> syntax error, unexpected '$session' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('admin/berita/de...')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('admin/berita/de...')
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-16 09:31:02 --> Call to a member function getFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/in...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(18): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:31:06 --> Call to a member function getFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/in...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(18): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:31:37 --> Call to a member function getFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/in...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(19): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:39:20 --> Invalid file: dasbor/index.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dasbor/index.ph...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('dasbor/index', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\berita\index.php(2): view('dasbor/index')
+#3 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/berita/in...', Array, true)
+#5 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/berita/in...')
+#6 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#7 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#8 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#9 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(23): view('admin/layout/wr...', Array)
+#10 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->index()
+#11 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#12 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2020-03-16 09:49:23 --> Class 'App\Models\User_model' not found
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->index()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 09:49:53 --> Invalid file: admin/user/index.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/user/inde...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/user/inde...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/user/inde...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(21): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:50:47 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\cifour\app\Views\admin\dasbor\index.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 25, Array)
+#1 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/in...', Array, true)
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\user\index.php(2): view('admin/dasbor/in...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/user/inde...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/user/inde...')
+#7 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#8 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#9 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#10 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(21): view('admin/layout/wr...', Array)
+#11 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->index()
+#12 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#13 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2020-03-16 09:53:04 --> Class 'App\Controllers\admin\Kategori_model' not found
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 09:53:24 --> Invalid file: admin/dasbor/tambah.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/ta...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/ta...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/ta...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(31): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:55:05 --> Call to undefined function form_open()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/user/tamb...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/user/tamb...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(31): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 09:55:17 --> Call to undefined function form_open()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/user/tamb...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/user/tamb...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(31): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 10:03:17 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:03:56 --> Duplicate entry 'rayyan' for key 'username'
+#0 D:\XAMPP\htdocs\cifour\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `us...')
+#1 D:\XAMPP\htdocs\cifour\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\XAMPP\htdocs\cifour\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\XAMPP\htdocs\cifour\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\XAMPP\htdocs\cifour\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\cifour\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(50): CodeIgniter\Model->save(Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 10:04:21 --> Duplicate entry 'rayyan' for key 'username'
+#0 D:\XAMPP\htdocs\cifour\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `us...')
+#1 D:\XAMPP\htdocs\cifour\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\XAMPP\htdocs\cifour\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\XAMPP\htdocs\cifour\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\XAMPP\htdocs\cifour\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\XAMPP\htdocs\cifour\system\Model.php(550): CodeIgniter\Model->insert(Array, false)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(50): CodeIgniter\Model->save(Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 10:04:49 --> syntax error, unexpected '?>'
+#0 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/user/tamb...', Array, true)
+#1 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/user/tamb...')
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#5 D:\XAMPP\htdocs\cifour\app\Controllers\admin\User.php(41): view('admin/layout/wr...', Array)
+#6 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-16 10:05:29 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:10:59 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:11:27 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:11:48 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:12:10 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:12:18 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:12:38 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:13:12 --> Call to a member function detail() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\User->edit('1')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\User))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:21:38 --> Cannot use object of type stdClass as array
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/kategori/...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/kategori/...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Kategori.php(69): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Kategori->edit('4')
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Kategori))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 10:25:22 --> There is no data to update.
+#0 D:\XAMPP\htdocs\cifour\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\cifour\app\Models\Kategori_model.php(39): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Kategori.php(77): App\Models\Kategori_model->edit(Array)
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Kategori->edit('11')
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Kategori))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 10:27:07 --> Invalid file: admin/dasbor/tambah.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/ta...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/ta...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/ta...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(35): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 10:29:22 --> syntax error, unexpected 'library' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('admin/kategori')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('admin/kategori')
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-16 10:29:39 --> Call to undefined function App\Controllers\admin\library()
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Kategori->index()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Kategori))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:31:40 --> Call to undefined function App\Controllers\admin\library()
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Kategori->index()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Kategori))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 10:32:06 --> Call to undefined function App\Controllers\admin\library()
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Kategori->index()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Kategori))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:11:20 --> Invalid file: admin/dasbor/tambah.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/ta...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/ta...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/ta...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(35): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 17:12:34 --> Invalid file: admin/dasbor/tambah.php
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dasbor/ta...')
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/dasbor/ta...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/dasbor/ta...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(34): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 17:12:59 --> Call to undefined function form_open()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/berita/ta...', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\content.php(5): view('admin/berita/ta...')
+#3 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(5): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(34): view('admin/layout/wr...', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 17:43:32 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:48:10 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('admin/berita/ta...')
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('admin/berita/ta...')
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-16 17:48:54 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:49:49 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:52:40 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:52:57 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:53:51 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:55:27 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:58:09 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 17:58:28 --> Call to a member function setFlashdata() on null
+#0 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#1 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 18:32:42 --> File not found: ../assets/upload/image/1234276470.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(50): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 18:40:02 --> File not found: ../assets/upload/image/download.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(51): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 18:45:39 --> The uploaded file has already been moved.
+#0 D:\XAMPP\htdocs\cifour\system\HTTP\Files\UploadedFile.php(167): CodeIgniter\HTTP\Exceptions\HTTPException::forAlreadyMoved()
+#1 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(50): CodeIgniter\HTTP\Files\UploadedFile->move('D:\\XAMPP\\htdocs...', '1584402339_7766...')
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-16 18:50:58 --> File not found: ../assets/upload/image/1584402658_1c65fe66bdac1fc00fa9.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(52): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 18:52:55 --> File not found: ../assets/upload/image/1584402775_fbe262fd8d02bbbfed47.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(53): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 18:53:09 --> File not found: ../assets/upload/image/1584402789_b62e6c303ccd96011d5f.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(53): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 18:53:22 --> File not found: ../assets/upload/image/1584402802_24608e2725dce3052388.jpg
+#0 D:\XAMPP\htdocs\cifour\system\Files\File.php(74): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('../assets/uploa...')
+#1 D:\XAMPP\htdocs\cifour\system\Images\Handlers\BaseHandler.php(170): CodeIgniter\Files\File->__construct('../assets/uploa...', true)
+#2 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Berita.php(53): CodeIgniter\Images\Handlers\BaseHandler->withFile('../assets/uploa...')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Berita->tambah()
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Berita))
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 19:17:20 --> Call to undefined method CodeIgniter\Session\Session::nama()
+#0 D:\XAMPP\htdocs\cifour\app\Views\admin\layout\wrapper.php(4): require_once()
+#1 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('admin/layout/wr...', Array, true)
+#3 D:\XAMPP\htdocs\cifour\app\Controllers\admin\Dasbor.php(19): view('admin/layout/wr...', Array)
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\admin\Dasbor->index()
+#5 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Dasbor))
+#6 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-16 19:27:25 --> Call to a member function get() on null
+#0 D:\XAMPP\htdocs\cifour\system\Router\Router.php(549): include_once()
+#1 D:\XAMPP\htdocs\cifour\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('admin/dasbor')
+#2 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('admin/dasbor')
+#3 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-16 19:48:54 --> Call to undefined function character_limit()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('home/index', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\layout\content.php(5): view('home/index')
+#3 D:\XAMPP\htdocs\cifour\app\Views\layout\wrapper.php(8): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\Home.php(18): view('layout/wrapper', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 19:50:10 --> Call to undefined function character_limit()
+#0 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('home/index', Array, true)
+#2 D:\XAMPP\htdocs\cifour\app\Views\layout\content.php(5): view('home/index')
+#3 D:\XAMPP\htdocs\cifour\app\Views\layout\wrapper.php(8): require_once('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#5 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#6 D:\XAMPP\htdocs\cifour\app\Controllers\Home.php(18): view('layout/wrapper', Array)
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Home->index()
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-16 19:53:11 --> syntax error, unexpected '}', expecting end of file
+#0 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('home/read', Array, true)
+#1 D:\XAMPP\htdocs\cifour\app\Views\layout\content.php(5): view('home/read')
+#2 D:\XAMPP\htdocs\cifour\app\Views\layout\wrapper.php(8): require_once('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\cifour\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#4 D:\XAMPP\htdocs\cifour\system\Common.php(1071): CodeIgniter\View\View->render('layout/wrapper', Array, true)
+#5 D:\XAMPP\htdocs\cifour\app\Controllers\Home.php(31): view('layout/wrapper', Array)
+#6 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(910): App\Controllers\Home->read('integrasi-data-...')
+#7 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\XAMPP\htdocs\cifour\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\cifour\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
