@@ -1,0 +1,399 @@
+CRITICAL - 2020-03-13 22:33:10 --> syntax error, unexpected '}'
+#0 D:\XAMPP\htdocs\ppdb\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdb\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:04:32 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 D:\XAMPP\htdocs\ppdb\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('login')
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 23:05:45 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:07:49 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:08:52 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:11:07 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:12:37 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:12:44 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:13:30 --> Call to undefined function App\Controllers\Konfigurasi_model()
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:15:19 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:16:55 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:18:20 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:20:39 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:21:51 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:22:00 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:22:54 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:23:04 --> Class 'App\Models\Konfigurasi_model' not found
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:23:34 --> Call to a member function listing() on null
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 23:29:16 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdb\app\Views\login\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 33, Array)
+#1 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#3 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:29:25 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdb\app\Views\login\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 33, Array)
+#1 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#3 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:30:29 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdb\app\Views\login\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 33, Array)
+#1 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#3 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:30:56 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdb\app\Views\login\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 33, Array)
+#1 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#3 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:35:28 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdb\app\Views\login\index.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 33, Array)
+#1 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#3 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 23:37:33 --> Call to a member function query() on null
+#0 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 23:37:52 --> Cannot use object of type App\Models\Konfigurasimodel as array
+#0 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#2 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 23:38:13 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(13): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing()
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:38:25 --> Cannot use object of type App\Models\Konfigurasimodel as array
+#0 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#2 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(15): view('login/index', Array)
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 23:43:07 --> Unknown column 'konfigurasi.id' in 'where clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(14): CodeIgniter\Model->find(1)
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing()
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:43:56 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(15): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing()
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:44:47 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(16): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing()
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:45:31 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:45:51 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:46:01 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:46:12 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:47:39 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(19): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:48:02 --> Unknown column 'konfigurasi.id' in 'where clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(381): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(14): CodeIgniter\Model->find(1)
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:48:22 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:48:41 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:48:49 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:48:57 --> Unknown column 'konfigurasi.id' in 'order clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(18): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(13): App\Models\Konfigurasimodel->listing(1)
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-13 23:49:14 --> Argument 1 passed to CodeIgniter\Model::findAll() must be of the type int, array given, called in D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php on line 13
+#0 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(13): CodeIgniter\Model->findAll(Array)
+#1 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(12): App\Models\Konfigurasimodel->listing()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 23:49:32 --> Argument 1 passed to CodeIgniter\Model::findAll() must be of the type int, array given, called in D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php on line 13
+#0 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(13): CodeIgniter\Model->findAll(Array)
+#1 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(12): App\Models\Konfigurasimodel->listing()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 23:49:41 --> Unknown column 'konfigurasi.id' in 'where clause'
+#0 D:\XAMPP\htdocs\ppdb\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdb\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdb\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdb\system\Model.php(375): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdb\app\Models\Konfigurasimodel.php(13): CodeIgniter\Model->find(Array)
+#6 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(12): App\Models\Konfigurasimodel->listing()
+#7 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#8 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}

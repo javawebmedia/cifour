@@ -1,0 +1,22 @@
+CRITICAL - 2020-03-14 00:02:16 --> Call to undefined function form_open()
+#0 D:\XAMPP\htdocs\ppdb\system\View\View.php(236): include()
+#1 D:\XAMPP\htdocs\ppdb\system\Common.php(1071): CodeIgniter\View\View->render('login/index', Array, true)
+#2 D:\XAMPP\htdocs\ppdb\app\Controllers\Login.php(16): view('login/index', Array)
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#4 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 00:03:01 --> syntax error, unexpected 'helper' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdb\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('login')
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 00:03:32 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(882): App\Controllers\Login->__construct()
+#1 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdb\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdb\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
