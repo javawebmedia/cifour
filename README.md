@@ -8,10 +8,10 @@ Download Website Sederhana dengan Codeigniter 4
 Alhamdulillah, akhirnya bisa uji coba framework Codeigniter 4 ini. Sebagai hasil uji coba, kami memberi nama cifour. Anda dapat mengunduhnya di sini:
 Unduh via Github: http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/
 
-REQUIREMENTS:
+# REQUIREMENTS:
 1. Minimal menggunakan PHP 7.2 ya.
 
-PANDUAN INSTALLASI:
+# PANDUAN INSTALLASI:
 
 1. Buat folder cifour di folder htdocs atau www Anda.
 2. Unduh file cifour melalui link di atas ( http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/).
@@ -21,12 +21,12 @@ PANDUAN INSTALLASI:
 6. Buka browser, lalu test alamat http://localhost/cifour.
 7. Selamat mencoba
 
-USERNAME DAN PASSWORD
+# USERNAME DAN PASSWORD
 
 1. Opsi 1: Username: andoyo, Password: andoyo.
 2. Opsi 2: Username: javawebmedia, Password: javawebmedia.
 
-FITUR TERSEDIA:
+# FITUR TERSEDIA:
 
 1. Halaman homepage.
 2. Halaman detail berita.
@@ -35,9 +35,10 @@ FITUR TERSEDIA:
 5. Halaman untuk mengelola kategori berita.
 6. Halaman untuk mengelola data user
 
-KEKURANGAN:
-Karena ini framework baru dan dokumentasinya sedikit maka ada banyak fitur yang belum diexplor. Maafkan yah
-SCREENSHOOT APLIKASI/WEBSITE:
-Berikut gambar-gambarnya ya.
+# KEKURANGAN:
+Karena ini framework baru dan dokumentasinya sedikit maka ada banyak fitur yang belum diexplor. Maafkan yah.
+
+# SCREENSHOOT APLIKASI/WEBSITE:
+Berikut gambar-gambarnya ya. http://javawebmedia.com/blog/download-website-sederhana-dengan-codeigniter-4/.
 
 Semoga bermanfaat dan dimaafken (belum eksplor semua).
