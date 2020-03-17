@@ -1,0 +1,77 @@
+/* body */
+body {
+	background-color: #333;
+	font-family: Arial;
+	font-size: 1em;
+}
+h1 {
+	font-size: 24px;
+}
+/* logo */
+.logo-javawebmedia {
+	margin: 20px 0;
+	text-align: center;
+}
+.logo-javawebmedia img {
+	max-width: 300px;
+	max-height: 300px;
+}
+img.logo-admin {
+	width: auto;
+	max-height: 60px;
+}
+/* berita */
+.berita h2 {
+	font-size: 18px;
+}
+/* login */
+.login {
+	max-width: 35%;
+	margin: 8% auto;
+	background-color: #FFF;
+	padding: 20px;
+	border: solid thin #EEE;
+	border-radius: 10px;
+	min-height: 300px;
+}
+/* content */
+.content {
+	margin: 40px auto;
+	max-width: 1200px;
+	background-color: #fff;
+	padding: 20px;
+	border: solid thin #EEE;
+	border-radius: 10px;
+	min-height: 200px;
+}
+.inner-content {
+	min-height: 300px;
+	margin: 40px 0;
+}
+/* nav-menu */
+.navbar {
+	border: solid thin #EEE;
+	border-radius: 5px;
+	background-color: #f5f5f5 !important;
+}
+.navbar-nav {
+	padding-left: 40px;
+}
+.nav-item {
+	font-weight: bold !important;
+}
+a:hover.nav-link {
+	color: orange !important;
+}
+/* footer-javawebmedia */
+.footer-javawebmedia {
+	text-align: center;
+	border-top: solid thin #EEE;
+	padding: 10px 20px;
+}
+.footer-javawebmedia a, a:visited {
+	color: orange;
+}
+.footer-javawebmedia a:hover {
+	color: #f00;
+}

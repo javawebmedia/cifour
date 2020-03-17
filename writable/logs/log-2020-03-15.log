@@ -1,0 +1,729 @@
+CRITICAL - 2020-03-15 16:38:41 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:38:59 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:41:35 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:41:55 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:43:48 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:43:55 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:44:51 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:45:21 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:45:42 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:46:10 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 16:46:31 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:07:41 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:07:53 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:09:11 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:09:16 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(12): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:09:41 --> Too few arguments to function App\Controllers\Login::test(), 0 passed in D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:09:50 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(23): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:10:37 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(23): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:11:24 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(24): App\Models\Konfigurasi_model->detail('1')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:12:37 --> Cannot redeclare App\Models\Konfigurasi_model::listing()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:13:11 --> Cannot redeclare App\Models\Konfigurasi_model::listing()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:15:24 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(23): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:15:27 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(12): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:17:02 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Konf...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Konf...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(12): spl_autoload_call('App\\Models\\Konf...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:17:11 --> Cannot redeclare App\Models\Konfigurasi_model::listing()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:17:28 --> Cannot redeclare App\Models\Konfigurasi_model::listing()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:19:42 --> Not unique table/alias: 'konfigurasi'
+#0 D:\XAMPP\htdocs\ppdbku\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT *\nFROM `...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\XAMPP\htdocs\ppdbku\system\Model.php(482): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\XAMPP\htdocs\ppdbku\app\Models\Konfigurasi_model.php(30): CodeIgniter\Model->first()
+#6 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(24): App\Models\Konfigurasi_model->detail2('1')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#9 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-03-15 17:19:53 --> You must set the database table to be used with your query.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(1700): CodeIgniter\Model->builder()
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Konfigurasi_model.php(27): CodeIgniter\Model->__call('select', Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Login.php(24): App\Models\Konfigurasi_model->detail2('1')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Login->test('1')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:23:24 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:30:24 --> Call to a member function listing() on null
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:30:44 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(12): App\Models\Berita_model->listing()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:31:18 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(12): App\Models\Berita_model->listing()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:31:50 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(12): App\Models\Berita_model->listing()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:32:32 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(12): App\Models\Berita_model->listing()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:32:37 --> Call to a member function table() on null
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(12): App\Models\Berita_model->listing()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:33:03 --> syntax error, unexpected '$db' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(11): spl_autoload_call('App\\Models\\Beri...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:34:26 --> syntax error, unexpected '$this' (T_VARIABLE)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(11): spl_autoload_call('App\\Models\\Beri...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:34:47 --> syntax error, unexpected 'return' (T_RETURN)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(11): spl_autoload_call('App\\Models\\Beri...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:37:32 --> Cannot redeclare App\Models\Berita_model::$table
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:44:49 --> Call to a member function listing() on null
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:45:12 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(882): App\Controllers\Jwm->__construct()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:45:23 --> Call to a member function listing() on null
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:45:37 --> syntax error, unexpected '$model' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 17:45:48 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-15 17:47:10 --> Function name must be a string
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->index()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:47:35 --> Cannot call constructor
+#0 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(882): App\Controllers\Jwm->__construct()
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-15 17:51:34 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdbku\system\Database\BaseBuilder.php(350): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 350, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(1702): CodeIgniter\Database\BaseBuilder->select(NULL)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(24): CodeIgniter\Model->__call('select', Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(19): App\Models\Berita_model->read('java-web-media-...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->read('java-web-media-...')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:51:42 --> syntax error, unexpected '$kolom' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(18): spl_autoload_call('App\\Models\\Beri...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->read('java-web-media-...')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 17:51:49 --> Invalid argument supplied for foreach()
+#0 D:\XAMPP\htdocs\ppdbku\system\Database\BaseBuilder.php(350): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'D:\\XAMPP\\htdocs...', 350, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(1702): CodeIgniter\Database\BaseBuilder->select(NULL)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(24): CodeIgniter\Model->__call('select', Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(19): App\Models\Berita_model->read('java-web-media-...')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->read('java-web-media-...')
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:18:37 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:20:38 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:21:31 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:21:48 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:21:55 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:22:06 --> Allowed fields must be specified for model: App\Models\Berita_model
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Beri...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert(Array)
+#3 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-15 18:22:22 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, array given, called in D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php on line 34
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(34): CodeIgniter\Model->insert('berita', Array)
+#1 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(51): App\Models\Berita_model->tambah(Array)
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->tambah()
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-15 19:06:05 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(67): App\Models\Berita_model->edit(Array)
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:07:16 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(67): App\Models\Berita_model->edit(Array)
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:11:53 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(67): App\Models\Berita_model->edit(Array)
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:13:08 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(67): App\Models\Berita_model->edit(Array)
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:13:42 --> Too few arguments to function App\Models\Berita_model::edit(), 1 passed in D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php on line 66 and exactly 2 expected
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:13:52 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:13:55 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:14:13 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:14:35 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:20:36 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:20:40 --> There is no data to update.
+#0 D:\XAMPP\htdocs\ppdbku\system\Model.php(802): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->update(Array)
+#2 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array, '18')
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#4 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#5 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-15 19:27:43 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:28:21 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:28:26 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:29:01 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:29:27 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:29:37 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:30:15 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:30:50 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:31:47 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:31:52 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:32:31 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:32:35 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:32:49 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/18')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/18')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:33:08 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:33:16 --> syntax error, unexpected ')'
+#0 D:\XAMPP\htdocs\ppdbku\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('jwm/edit/21')
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('jwm/edit/21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:35:35 --> Too few arguments to function App\Models\Berita_model::edit(), 1 passed in D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php on line 66 and exactly 2 expected
+#0 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('21')
+#2 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#3 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-15 19:38:24 --> Declaration of App\Models\Berita_model::delete($data) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(75): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:38:50 --> Declaration of App\Models\Berita_model::delete($data) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(75): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:39:20 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(75): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:02 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(75): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:09 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(75): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:12 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(65): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:34 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(74): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->delete('21')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:38 --> Declaration of App\Models\Berita_model::delete($id_berita) should be compatible with CodeIgniter\Model::delete($id = NULL, bool $purge = false)
+#0 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'D:\\XAMPP\\htdocs...', 5, Array)
+#1 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(365): require_once('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Beri...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Beri...')
+#5 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(65): spl_autoload_call('App\\Models\\Beri...')
+#6 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-03-15 19:40:54 --> Column 'judul_berita' cannot be null
+#0 D:\XAMPP\htdocs\ppdbku\system\Database\MySQLi\Connection.php(330): mysqli->query('REPLACE INTO `b...')
+#1 D:\XAMPP\htdocs\ppdbku\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('REPLACE INTO `b...')
+#2 D:\XAMPP\htdocs\ppdbku\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('REPLACE INTO `b...')
+#3 D:\XAMPP\htdocs\ppdbku\system\Database\BaseBuilder.php(2296): CodeIgniter\Database\BaseConnection->query('REPLACE INTO `b...', Array, false)
+#4 D:\XAMPP\htdocs\ppdbku\system\Model.php(1023): CodeIgniter\Database\BaseBuilder->replace(Array, false)
+#5 D:\XAMPP\htdocs\ppdbku\app\Models\Berita_model.php(42): CodeIgniter\Model->replace(Array)
+#6 D:\XAMPP\htdocs\ppdbku\app\Controllers\Jwm.php(66): App\Models\Berita_model->edit(Array)
+#7 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(910): App\Controllers\Jwm->edit('18')
+#8 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jwm))
+#9 D:\XAMPP\htdocs\ppdbku\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\XAMPP\htdocs\ppdbku\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
