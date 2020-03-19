@@ -1,4 +1,5 @@
 <?php  namespace App\Controllers\admin;
+
 // Load model
 use App\Models\Berita_model;
 use App\Models\Kategori_model;
