@@ -21,6 +21,10 @@ Unduh via Github: https://github.com/javawebmedia/cifour
 6. Buka browser, lalu test alamat http://localhost/cifour.
 7. Selamat mencoba
 
+# SETTING BASE_URL
+1. Buka file App.php dalam folder app/Config
+2. Ubah public $baseURL = 'http://localhost/cifour'; menjadi public $baseURL = 'http://alamatwebsiteanda';
+
 # USERNAME DAN PASSWORD
 
 1. Opsi 1: Username: andoyo, Password: andoyo.
